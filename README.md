@@ -1,5 +1,5 @@
 # Human Resource Capstone Project
-![HR Data Analysis](https://raw.githubusercontent.com/iamutkarsh24/Human-Resouce-Capstone-Project/refs/heads/main/Screenshot%202025-04-29%20100210.png)
+![HR Data Analysis](https://raw.githubusercontent.com/iamutkarsh24/Human-Resouce-Capstone-Project/refs/heads/main/Screenshot%202025-04-29%20100524.png)
 
 ## About the Project 🚀
 This project is a Human Resources (HR) analytics capstone. It involves analyzing employee-related data to uncover insights about workforce demographics, employee satisfaction, recruitment trends, performance metrics, and attrition patterns.
