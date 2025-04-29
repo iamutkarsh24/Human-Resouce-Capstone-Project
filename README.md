@@ -21,7 +21,8 @@ The dashboard is designed for HR managers and executives to make data-driven dec
 
 ## Findings 📊
 From the visualizations and data provided:
-- **Attrition Rate:** A noticeable proportion of employees leave the organization, with higher attrition among certain job roles (like Sales and Research departments).
+- **Attrition Rate:**
+  - A noticeable proportion of employees leave the organization, with higher attrition among certain job roles (like Sales and Research departments).
 - **Demographic Patterns:**
   - A higher attrition rate among younger employees and those with lower years at the company.
   - Male employees form a slightly higher portion of the workforce.
